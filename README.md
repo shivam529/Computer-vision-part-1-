@@ -1,6 +1,6 @@
 # a1
 
-Grade.py code has been uploaded
+We have completed the part-3 of the assignment and writing the report for the same. Please find the files in the repo as grade.py and Report.pdf.
 
-Report uploaded as report.pdf
+We were unable to complete part-4 of the assignment due to time constraints
 
